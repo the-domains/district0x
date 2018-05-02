@@ -1,0 +1,23 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: district0x
+layout_spectrum: 0.543762527871877
+typography_spectrum: 0.22547194478102028
+color:
+  brandStrength: 0.2631287924014032
+  lightness: 0.16176712326705456
+  saturation: 0.5767608711030334
+  rhythmicContrast: 0.8778122900985181
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+content: []
+github: true
